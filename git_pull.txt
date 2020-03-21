@@ -1,3 +1,4 @@
 git Pull from git hub
 ggg
 xuân thành vừa sửa xong nhé!!! git pull đi
+cái này là merge conflicts hihi
